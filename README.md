@@ -39,7 +39,7 @@
     <div>
       <h3>Join</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/ -007ACC?style=flat&label=Vue.js3&labelColor=ffce00&link=https://gitlocalize.com/repo/5120">
+        <img src="https://img.shields.io/badge/ -ffce00?style=flat&label=Trans Vue.js 3&labelColor=ffce00&link=https://gitlocalize.com/repo/5120">
       </div>
     </div>
   </div>
