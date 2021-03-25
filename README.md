@@ -40,7 +40,7 @@
     <div>
       <h3>Join</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Trans Vue.js 3-333?style=flat&label=gitlocalize&labelColor=ffce00&link=https://gitlocalize.com/repo/5120">
+        <img src="https://img.shields.io/badge/Trans Vue.js 3-333?style=flat&label=gitlocalize&labelColor=ffce00&link=https://gitlocalize.com/repo/5120" onClick="alert()">
       </div>
     </div>
   </div>
