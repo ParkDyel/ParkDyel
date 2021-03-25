@@ -20,7 +20,6 @@
         <img src="https://img.shields.io/badge/2.6-333?style=flat&label=Vue.js&labelColor=4FC08D&logo=Vue.js&logoColor=white&link=https://vuejs.org/">
       </div>
     </div>
-    <br />
     <div>
       <div align="center">
         <img src="https://img.shields.io/badge/3.5 | 3.8-333?style=flat&label=Python&labelColor=3776AB&logo=Python&logoColor=white&link=https://www.python.org/">
