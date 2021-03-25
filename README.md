@@ -21,7 +21,7 @@
     <div>
       <h2>Tools</h2>
       <div align="center">
-        <img src="https://img.shields.io/badge/ -007ACC?style=flat&label=Visual Studio Code&labelColor=007ACC&logo=Visual Studio Code&logoColor=white&link=https://code.visualstudio.com/">
+        <img src="https://img.shields.io/badge/ -007ACC?style=flat&label=VisualStudioCode&labelColor=007ACC&logo=VisualStudioCode&logoColor=white&link=https://code.visualstudio.com/">
       </div>
     </div>
   </div>
