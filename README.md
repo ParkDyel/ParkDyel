@@ -5,7 +5,7 @@
       <h2>FrontEnd</h2>
       <div align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white&label=test&link=https://vuejs.org/">
       </div>
     </div>
     <br />
