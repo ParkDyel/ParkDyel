@@ -2,9 +2,9 @@
     <div>
     <h1>Introduce</h1>
     <p align="center">
-      <strong>사용자에게 익숙한 서비스를 제공하고 싶은 개발자입니다.</strong><br/>
-      현재 회사에서 다양한 개발분야에 대해서 경험하고 있고, 앞으로는 FE로 더욱 성장하고 싶습니다.
-      Interactive design, Meterial Design에 관심이 많습니다.
+      <strong>사용자에게 익숙한 서비스를 제공하고 싶은 개발자입니다.</strong><br /><br />
+      현재 회사에서 다양한 개발분야에 대해서 경험하고 있고, 앞으로는 FE로 더욱 성장하고 싶습니다.<br />
+      Interactive design, Meterial Design에 관심이 많습니다.<br />
       부족한 알고리즘 공부도 시작하려 합니다.
     </p>
   </div>    
