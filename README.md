@@ -12,8 +12,9 @@
     <div>
       <h2>BackEnd</h2>
       <div align="center">
-        <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white">
+        <img src="https://img.shields.io/badge/　-000000?style=flat&label=Flask&labelColor=000000&logo=flask&logoColor=white&link=https://flask.palletsprojects.com/">
+        <img src="https://img.shields.io/badge/　-009688?style=flat&label=FastAPI&labelColor=009688&logo=FastAPI&logoColor=white&link=https://fastapi.tiangolo.com/">
+        <img src="https://img.shields.io/badge/　-000?style=flat&label=SQLAlchemy&labelColor=000&link=https://www.sqlalchemy.org/">
       </div>
     </div>
   </div>
