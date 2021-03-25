@@ -35,6 +35,7 @@
       <h3>Tools</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/ -007ACC?style=flat&label=VSCode&labelColor=007ACC&logo=VSCode&logoColor=white&link=https://code.visualstudio.com/">
+        <img src="https://img.shields.io/badge/S3 | CloudFront | EC2/ELB | RDS-007ACC?style=flat&label=AWS&labelColor=232F3E&logo=AWS&logoColor=white&link=https://aws.amazon.com/">
       </div>
     </div>
     <div>
