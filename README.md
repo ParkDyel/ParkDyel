@@ -1,7 +1,7 @@
 <div>
   <div>
     <a href="https://ParkDyel.github.io">
-      <h2 align="center">🏠 Github Pages<h1>
+      <p style="font:14px" align="center">🏠 Github Pages<h1>
     </a>
   </div>
   <div>
