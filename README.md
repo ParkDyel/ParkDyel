@@ -1,6 +1,8 @@
 <div>
   <div>
-    <h1 align="center"><a href="://ParkDyel.github.io">🏠 Github Pages</a><h1>
+    <a href="https://ParkDyel.github.io">
+      <h2 align="center">🏠 Github Pages<h1>
+    </a>
   </div>
   <div>
     <h1>Introduce 😎</h1>
