@@ -1,8 +1,8 @@
 <div>
   <div>
     <h1>Introduce 😎</h1>
-    <a target="_blank" href="https://dyel.notion.site/Dyel-Park-d0cbbcccc421470698ff3a3d23709caa">
-      <p align="center">🏡</p>
+    <a href="https://dyel.notion.site/Dyel-Park-d0cbbcccc421470698ff3a3d23709caa" target="_blank" >
+      <span align="center">🏡</p>
     </a>
     <p align="center">
       <br /><strong>사용자에게 익숙한 서비스를 제공하고 싶은 개발자💻입니다.</strong><br /><br />
