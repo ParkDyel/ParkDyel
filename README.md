@@ -1,7 +1,7 @@
 <div>
   <div>
     <h1>Introduce 😎</h1>
-    <a href="https://dyel.notion.site/Dyel-Park-d0cbbcccc421470698ff3a3d23709caa">
+    <a target="_blank" href="https://dyel.notion.site/Dyel-Park-d0cbbcccc421470698ff3a3d23709caa">
       <p align="center">🏡</p>
     </a>
     <p align="center">
