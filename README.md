@@ -13,15 +13,17 @@
       TMI지만 축구⚽하는 것과 자전거 타는 것🚲, 그리고 사진 찍는 것📸을 좋아합니다!
       <br />
     </p>
-  </div>    
+  </div>
+  <br />
   <div>
-    <h2>Things use for develop</h2>
+    <h2>Skills</h2>
     <div>
       <div align="center">
         <img src="https://img.shields.io/badge/　-F7DF1E?style=flat&label=JavaScript&labelColor=F7DF1E&logo=JavaScript&logoColor=white">
         <img src="https://img.shields.io/badge/2.6-333?style=flat&label=Vue.js&labelColor=4FC08D&logo=Vue.js&logoColor=white&link=https://vuejs.org/">
       </div>
     </div>
+    <br />
     <div>
       <div align="center">
         <img src="https://img.shields.io/badge/3.5 | 3.8-333?style=flat&label=Python&labelColor=3776AB&logo=Python&logoColor=white&link=https://www.python.org/">
@@ -30,6 +32,7 @@
         <img src="https://img.shields.io/badge/1.x　-000?style=flat&label=SQLAlchemy&labelColor=000&link=https://www.sqlalchemy.org/">
       </div>
     </div>
+    <br />
     <div>
       <div align="center">
         <img src="https://img.shields.io/badge/ -007ACC?style=flat&label=VSCode&labelColor=007ACC&logo=VSCode&logoColor=white&link=https://code.visualstudio.com/">
