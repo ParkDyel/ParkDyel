@@ -1,4 +1,4 @@
-<style>
+<style type="text/css">
 .fs10rem {
   font-size:10rem;  
 }
