@@ -60,6 +60,11 @@
           Vue.js 3 한국어 번역 프로젝트
         </a>
       </li>
+      <li>
+        <a href="https://open.kakao.com/o/gqwOPC5">
+          Vue.js 오픈톡방
+        </a>
+      </li>
     </ul>
   </div>
 </div>
