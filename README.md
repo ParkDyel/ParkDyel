@@ -52,4 +52,14 @@
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ParkDyel&show_icons=true&theme=highcontrast">
   </div>
+  <div>
+    <h2> Involved </h2>
+    <ul>
+      <li>
+        <a href="https://github.com/vuejs-kr/docs-next/">
+          Vue.js 3 한국어 번역 프로젝트
+        </a>
+      </li>
+    </ul>
+  </div>
 </div>
