@@ -1,14 +1,9 @@
 <div>
   <div>
-    <a href="https://ParkDyel.github.io">
-      <p style="font:14px" align="center">🏠 Github Pages<h1>
-    </a>
-  </div>
-  <div>
     <h1>Introduce 😎</h1>
     <p align="center">
       <a href="https://dyel.notion.site/Dyel-Park-d0cbbcccc421470698ff3a3d23709caa">
-        🏡
+        <h1>🏡</h1>
       </a>
       <br /><strong>사용자에게 익숙한 서비스를 제공하고 싶은 개발자💻입니다.</strong><br /><br />
       이전 회사에서 여러 개발분야에 대해서 경험하였고,<br />이제는 FE로써 더욱 성장하고 싶습니다.<br />
