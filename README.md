@@ -7,10 +7,12 @@
   <div>
     <h1>Introduce 😎</h1>
     <p align="center">
+      <a href="https://dyel.notion.site/Dyel-Park-d0cbbcccc421470698ff3a3d23709caa">
+        🏡
+      </a>
       <br /><strong>사용자에게 익숙한 서비스를 제공하고 싶은 개발자💻입니다.</strong><br /><br />
-      현재 회사에서 여러 개발분야에 대해서 경험하고 있고,<br />앞으로는 FE로써 더욱 성장하고 싶습니다.<br />
-      Interactive design, Meterial Design에 관심이 많습니다.<br />
-      부족한 알고리즘 공부📚도 시작하려 합니다.
+      이전 회사에서 여러 개발분야에 대해서 경험하였고,<br />이제는 FE로써 더욱 성장하고 싶습니다.<br />
+      구직 준비를 하면서 많은 부족함을 느끼며 열심히 공부📚하고 있습니다.
       <br />
       <br />
       TMI지만 축구⚽하는 것과 자전거 타는 것🚲, 그리고 사진 찍는 것📸을 좋아합니다!
