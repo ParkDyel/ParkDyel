@@ -22,7 +22,8 @@
     <div>
       <div align="center">
         <img src="https://img.shields.io/badge/　-F7DF1E?style=flat&label=JavaScript&labelColor=F7DF1E&logo=JavaScript&logoColor=white">
-        <img src="https://img.shields.io/badge/2.6-333?style=flat&label=Vue.js&labelColor=4FC08D&logo=Vue.js&logoColor=white&link=https://vuejs.org/">
+        <img src="https://img.shields.io/badge/-333?style=flat&label=Vue.js&labelColor=4FC08D&logo=Vue.js&logoColor=white&link=https://vuejs.org/">
+        <img src="https://img.shields.io/badge/3-333?style=flat&label=Vue.js&labelColor=4FC08D&logo=Vue.js&logoColor=white&link=https://v3.vuejs.org/">
       </div>
     </div>
     <br />
