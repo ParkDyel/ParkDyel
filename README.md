@@ -3,7 +3,7 @@
     <h1>Introduce 😎</h1>
     <div align="center">
       <a target="_blank" href="https://dyel.notion.site/Dyel-Park-d0cbbcccc421470698ff3a3d23709caa">
-        <h1>🏡</h1>
+        <h1>🏡 Home 🏡</h1>
       </a>
     </div>
     <p align="center">
