@@ -21,15 +21,14 @@
     <h2>Skills</h2>
     <div>
       <div align="center">
-        <img src="https://img.shields.io/badge/　-F7DF1E?style=flat&label=JavaScript&labelColor=F7DF1E&logo=JavaScript&logoColor=white">
-        <img src="https://img.shields.io/badge/2 -4FC08D?style=flat&label=Vue.js&labelColor=4FC08D&logo=Vue.js&logoColor=white&link=https://vuejs.org/">
-        <img src="https://img.shields.io/badge/%20-000?style=flat&label=Next.js&labelColor=000&logo=Next.js&logoColor=white&link=https://nextjs.org/">
+        <img src="https://img.shields.io/badge/%20-F7DF1E?style=flat&label=JavaScript&labelColor=F7DF1E&logo=JavaScript&logoColor=white" />
+        <img src="https://img.shields.io/badge/%20-4FC08D?style=flat&label=Vue.js&labelColor=4FC08D&logo=Vue.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/%20-000?style=flat&label=Next.js&labelColor=000&logo=Next.js&logoColor=white" />
       </div>
-    </div>
-    <br />
-    <div>
+      <br />
       <div align="center">
-        <img src="https://img.shields.io/badge/translate Vue.js 3-333?style=flat&label=gitlocalize&labelColor=ffce00&link=https://gitlocalize.com/repo/5120" onClick="alert()">
+        <img src="https://img.shields.io/badge/%20-0052cc?style=flat&label=Confluence&labelColor=0052cc&logo=Confluence&logoColor=white" />
+        <img src="https://img.shields.io/badge/%20-0052cc?style=flat&label=Jira&labelColor=0052cc&logo=Jira&logoColor=white" />
       </div>
     </div>
   </div>
