@@ -1,19 +1,16 @@
 <div>
   <div>
     <h1>Introduce 😎</h1>
-    <div align="center">
+      <p align="center">
+      <strong>세상에 필요한 서비스를 개발하고 싶은, 개발자💻입니다.</strong>
+      <br />
+      <br />
+      함께 성장하는 것<del>혼자 못하는</del>을 좋아합니다 :)
+      더 나은 개발자가 되기 위해 노력하겠습니다.
+      <br />
       <a target="_blank" href="https://dyel.notion.site/Dyel-Park-d0cbbcccc421470698ff3a3d23709caa">
-        <h1>🏡Home</h1>
+        <h3>🏡Home</h3>
       </a>
-    </div>
-    <p align="center">
-      <strong>세상에 필요한 서비스를 개발하고 싶은, 개발자💻입니다.</strong><br /><br />
-      함께 성장하는 것<del>혼자 못하는</del>을 좋아합니다 :) <br />
-      부족한 중에서도, 다른 사람에게 도움이 되는 것을 좋아합니다 :D <br />
-      <br />
-      <br />
-      TMI지만 축구⚽하는 것과 자전거 타는 것🚲, 그리고 사진 찍는 것📸을 좋아합니다!
-      <br />
     </p>
   </div>
   <br />
@@ -32,7 +29,6 @@
       </div>
     </div>
   </div>
-  <br />
   <br />
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ParkDyel&show_icons=true&theme=highcontrast">
