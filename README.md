@@ -4,11 +4,11 @@
     <div align="center">
       <strong>세상에 필요한 서비스를 개발하고 싶은, 개발자💻입니다.</strong><br />
       <br />
-      <p>함께 성장하는 것<del>혼자 못하는</del>을 좋아합니다 :)</p>
-      <p>더 나은 개발자가 되기 위해 노력하겠습니다.</p>
+      <div>함께 성장하는 것을 좋아합니다 :)< br/>
+      더 나은 개발자가 되기 위해 노력하겠습니다. XD</div>
       <br />
       <a target="_blank" href="https://dyel.notion.site/Dyel-Park-d0cbbcccc421470698ff3a3d23709caa">
-        <h3>🏡Home</h3>
+        <h3>Notion</h3>
       </a>
     </div>
   </div>
