@@ -4,7 +4,7 @@
     <div align="center">
       <strong>세상에 필요한 서비스를 개발하고 싶은, 개발자💻입니다.</strong><br />
       <br />
-      <div>함께 성장하는 것을 좋아합니다 :)< br/>
+      <div>함께 성장하는 것을 좋아합니다 :)<br />
       더 나은 개발자가 되기 위해 노력하겠습니다. XD</div>
       <br />
       <a target="_blank" href="https://dyel.notion.site/Dyel-Park-d0cbbcccc421470698ff3a3d23709caa">
