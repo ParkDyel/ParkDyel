@@ -8,9 +8,12 @@
       더 나은 개발자가 되기 위해 노력하겠습니다. XD</div>
       <br />
       <a target="_blank" href="https://dyel.notion.site/Dyel-Park-d0cbbcccc421470698ff3a3d23709caa">
-        Notion
+        <span style="font-weight:bold;font-color:blue">
+          자세히 알아보기 >>
+        </span>
       </a>
     </div>
+    <br />
     <div>
       <div align="center">
         <img src="https://img.shields.io/badge/%20-F7DF1E?style=flat&label=JavaScript&labelColor=F7DF1E&logo=JavaScript&logoColor=white" />
