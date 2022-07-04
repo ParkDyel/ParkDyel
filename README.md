@@ -21,21 +21,10 @@
         <img src="https://img.shields.io/badge/%20-4FC08D?style=flat&label=Vue.js&labelColor=4FC08D&logo=Vue.js&logoColor=white" />
         <img src="https://img.shields.io/badge/%20-000?style=flat&label=Next.js&labelColor=000&logo=Next.js&logoColor=white" />
       </div>
-      <br />
       <div align="center">
         <img src="https://img.shields.io/badge/%20-0052cc?style=flat&label=Confluence&labelColor=0052cc&logo=Confluence&logoColor=white" />
         <img src="https://img.shields.io/badge/%20-0052cc?style=flat&label=Jira&labelColor=0052cc&logo=Jira&logoColor=white" />
       </div>
     </div>
-  </div>
-  <div>
-    <h2> Involved </h2>
-    <ul>
-      <li>
-        <a href="https://github.com/vuejs-kr/docs-next/">
-          Vue.js 3 한국어 번역 프로젝트
-        </a>
-      </li>
-    </ul>
   </div>
 </div>
