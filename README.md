@@ -8,9 +8,9 @@
       더 나은 개발자가 되기 위해 노력하겠습니다. XD</div>
       <br />
       <a target="_blank" href="https://dyel.notion.site/Dyel-Park-d0cbbcccc421470698ff3a3d23709caa">
-        <span style="font-weight:bold;font-color:blue">
+        <strong>
           자세히 알아보기 >>
-        </span>
+        </strong>
       </a>
     </div>
     <br />
