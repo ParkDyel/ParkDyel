@@ -7,7 +7,7 @@
       <div>함께 성장하는 것을 좋아합니다 :)<br />
       더 나은 개발자가 되기 위해 노력하겠습니다. XD</div>
       <br />
-      <a target="_blank" href="https://dyel.notion.site/Park-Dyel-17920f2597c3800088b7e54bc834ddf7?pvs=4">
+      <a target="_blank" href="https://dyel.notion.site/Park-Dyel-17920f2597c3800088b7e54bc834ddf7">
         <strong>
           자세히 알아보기 >>
         </strong>
